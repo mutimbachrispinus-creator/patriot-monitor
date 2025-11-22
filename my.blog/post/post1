@@ -1,0 +1,7 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Welcome - Patriot Monitor</title><link rel="stylesheet" href="../style.css"></head><body><header><div class="container"><h1><a href="../index.html" style="color:inherit;text-decoration:none">Patriot Monitor</a></h1></div></header><main class="container"><article class="post" style="opacity:1;transform:none"><h1>Welcome to Patriot Monitor</h1><p class="date">November 22,
+2025</p><p>Independent truth. No filters. No agenda.</p><p>Your blog is now 100% live and fully functional with dark mode,
+search,
+mobile menu,
+and real JavaScript.</p><p>To add a new post → just duplicate this file,
+change the title/content,
+and add one line in script.js</p><br><br><a href="../index.html">Back to Home</a></article></main></body></html>
