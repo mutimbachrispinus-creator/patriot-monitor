@@ -1,2 +1,0 @@
-# patriot-monitor
-blog
